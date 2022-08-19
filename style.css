@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(70, 226, 70, 0.568);
+    font-family: 'DynaPuff', cursive;
+}
+
+#score {
+    font-size: 23px;
+    margin-left: 50px;
+}
+
+#timer {
+    font-size: 23px;
+    float: right;
+    margin-right: 100px;
+}
+
+#sketch-to-be-drawn_name {
+    color: red;
+}
+
+#elements {
+    height: 50px;
+    width: 100%;
+    background-color: white;
+}
